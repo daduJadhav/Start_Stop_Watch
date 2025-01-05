@@ -18,7 +18,7 @@
 <h2>🛠️ <b>Installation</b> </h2>
  <ol>
    <li> Ensure you have Python installed on your machine (version 3.6 or later).</li>
-   <li>Clone this repository using Git: git clone https://github.com/yourusername/python-stopwatch.git</li>
+   <li>Clone this repository using Git: git clone https://github.com/daduJadhav/Start_Stop_Watch.git</li>
    <li>Navigate to the project directory: cd python-stopwatch</li>
  </ol>
 
@@ -43,5 +43,5 @@
 <hr>
 
 <h2> 📧 <b>Contact</b> </h2>
-<p>For any questions or feedback, feel free to reach out at <a>rcjadhav05@gmail.com.</a></p>
+<p>For any questions or feedback, feel free to reach out at rcjadhav05@gmail.com.</p>
 
