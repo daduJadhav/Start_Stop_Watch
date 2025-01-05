@@ -43,5 +43,5 @@
 <hr>
 
 <h2> 📧 <b>Contact</b> </h2>
-<p>For any questions or feedback, feel free to reach out at rcjadhav05@gmail.com.</p>
+<p>For any questions or feedback, feel free to reach out at rcjadhav5@gmail.com.</p>
 
